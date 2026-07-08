@@ -63,7 +63,7 @@ The network predicts one of 6 classes and outputs a single best match for each 2
 
 ## Demo
 
-Below is a sped up demo of `ben-listen.py`, which continuously records audio from the microphone in 2.5-second windows and passes each chunk through the model. The lower part of the image is [**CAVA**](https://github.com/karlstav/cava), the cross-platform audio visualiser by Karl Stavestrand.
+Below is a sped up demo of `ben-listen.py`, which continuously records audio from the microphone in 2.5-second windows and passes each chunk through the model. The lower part of the image is [**CAVA**](https://github.com/karlstav/cava), the cross-platform audio visualiser by karlstav.
 
 <img src="images/ben-listen-demo.gif" alt="Bentector demo" width="500">
 
