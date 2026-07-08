@@ -75,7 +75,10 @@ Below is a sped up demo of `ben-listen.py`, which continuously records audio fro
 # Required dependencies
 pip install torch torchaudio sounddevice
 
-# Run
+# Run via UV
+uv run ben-listen.py --model ben_yees.pt
+
+# If you don't have UV
 python ben-listen.py --model ben_yees.pt
 ```
 
